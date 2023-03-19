@@ -1,0 +1,12 @@
+
+
+.nav-link:hover {
+  background-color: #C8F2EF !important;
+  color: black !important;
+  border-radius:10px !important ;
+}
+.active {
+  background-color: #C8F2EF ;
+  color: black !important;
+  border-radius:10px;
+}

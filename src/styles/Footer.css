@@ -1,0 +1,27 @@
+.footer {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 50px;
+    background-color: #E4DCCF;
+    
+  }
+  
+  .footer p {
+    margin: 0;
+  }
+  
+  .footer a {
+    margin: 0 10px;
+    color: #333;
+  }
+  
+  .footer a:hover {
+    color: #007bff;
+  }
+  .social-icons {
+    display: flex;
+    justify-content: center;
+  }
+  
